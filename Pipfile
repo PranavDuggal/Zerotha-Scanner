@@ -12,6 +12,7 @@ flask = "*"
 kiteconnect = "*"
 openpyxl = "*"
 selenium = "*"
+gunicorn = "*"
 
 [dev-packages]
 
